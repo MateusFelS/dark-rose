@@ -24,10 +24,12 @@ const AboutUs = () => {
     <div className="w-full h-auto bg-black p-10 text-center">
       <h2 className="text-4xl font-bold mb-8 text-white">Quem Somos Nós 👭</h2>
       <p className="text-lg mb-4 text-white">
-        A Livraria Dark Rose é um espaço dedicado ao amor pelos livros e pela leitura. Localizada no coração do Rio de Janeiro, nossa equipe apaixonada está sempre pronta para ajudar você a encontrar sua próxima leitura favorita.
+        A Livraria Dark Rose é um espaço dedicado ao amor pelos livros e pela leitura. 
+        Localizada no coração do Rio de Janeiro, nossa equipe apaixonada está sempre pronta para ajudar você a encontrar sua próxima leitura favorita.
       </p>
       <p className="text-lg mb-4 text-white">
-        Nossa missão é promover a cultura e a literatura, oferecendo um ambiente acolhedor e inspirador para todos os leitores. Desde lançamentos até clássicos, temos um pouco de tudo para todos os gostos.
+        Nossa missão é promover a cultura e a literatura, oferecendo um ambiente acolhedor e inspirador para todos os leitores. 
+        Desde lançamentos até clássicos, temos um pouco de tudo para todos os gostos.
       </p>
       <h3 className="text-2xl pt-10 font-semibold mb-6 text-white">Conheça Nossa Equipe</h3>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

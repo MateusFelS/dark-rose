@@ -1,4 +1,4 @@
-import Background from '../assets/images/rosas.jpg';
+import Background from '../assets/images/background_hero.jpg';
 
 const Hero = () => {
   return (

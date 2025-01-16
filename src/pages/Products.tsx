@@ -35,7 +35,7 @@ const Products = () => {
 
   return (
     <div id="produtos" className="w-full p-4 md:p-8 bg-black text-white">
-      <div className="relative w-full h-auto rounded-lg text-white p-4 md:p-8 flex items-center justify-between">
+      <div className="relative w-full h-auto rounded-lg p-4 md:p-8 flex items-center justify-between">
         <button
           className="bg-white/80 text-customBlue p-2 rounded-full hover:bg-white transition"
           onClick={prevSlide}

@@ -32,7 +32,7 @@ const Categories = () => {
                 alt={category.title}
                 className="rounded-lg mb-4 object-cover w-full h-48"
               />
-              <h3 className="text-x font-semibold mb-2">{category.title}</h3>
+              <h3 className="text-xl font-semibold mb-2">{category.title}</h3>
             </div>
           ))}
         </div>
