@@ -1,17 +1,19 @@
-import Footer from "./components/Footer";
-import Slidenav from "./components/SlideNavbar";
-import Main from "./pages/Main";
+import Hero from "./pages/Hero";
 import Products from "./pages/Products";
-import Services from './pages/Services';
+import Categories from "./pages/Categories";
+import NewReleaseBooks from "./pages/NewReleaseBooks";
+import Contact from "./pages/Contact";
 import AboutUs from './pages/AboutUs';
+import Footer from "./components/Footer";
 
 export function App() {
   return (
       <>
-        <Slidenav />
-        <Main/>
+        <Hero />
+        <Categories />
         <Products />
-        <Services />
+        <NewReleaseBooks />
+        <Contact />
         <AboutUs />
         <Footer />
       </>
