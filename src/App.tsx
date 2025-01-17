@@ -1,4 +1,4 @@
-import Hero from "./pages/Hero";
+import Hero from "./pages/Hero/Hero";
 import Products from "./pages/Products";
 import Categories from "./pages/Categories";
 import NewReleaseBooks from "./pages/NewReleaseBooks";
